@@ -1,4 +1,4 @@
-package com.udacity.gradle.builditbigger.backend;
+package com.udacity.gradle.free.backend;
 
 /** The object model for the data we are sending through endpoints */
 public class MyBean {

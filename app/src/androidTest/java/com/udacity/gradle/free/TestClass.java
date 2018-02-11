@@ -1,15 +1,14 @@
-package com.udacity.gradle.builditbigger;
+package com.udacity.gradle.free;
 
 import android.content.Context;
-import android.os.SystemClock;
 import android.support.test.InstrumentationRegistry;
 import android.support.test.runner.AndroidJUnit4;
 import android.util.Pair;
 
+import com.udacity.gradle.builditbigger.paid.MainActivity;
+
 import org.junit.Test;
 import org.junit.runner.RunWith;
-
-import java.util.concurrent.CountDownLatch;
 
 import static junit.framework.Assert.assertEquals;
 import static junit.framework.Assert.assertTrue;
